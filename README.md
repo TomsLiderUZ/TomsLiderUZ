@@ -54,7 +54,7 @@
 
 - Telegram: [@TomsLiderUZ](https://t.me/TomsLider)  
 - Instagram: [@toms_lider](https://instagram.com/toms_lider)  
-- Email: `lidirgamev@gmail.com` *(optional, I can help you set it up if needed)*
+- Email: `lidirgame@gmail.com` *(optional, I can help you set it up if needed)*
 
 ---
 
