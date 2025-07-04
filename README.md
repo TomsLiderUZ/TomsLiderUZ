@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Hi, I'm @TomsLiderUZ
+# 👋 Hi, I'm Toms
 
 🎬 I'm a passionate developer and the founder of several modern web projects. I enjoy working with web technologies, building dynamic applications, and collaborating in open-source and team-based environments. Coding is my art!
 
