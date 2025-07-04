@@ -52,7 +52,7 @@
 
 ## 📬 Contact
 
-- Telegram: [@TomsLiderUZ](https://t.me/TomsLider)  
+- Telegram: [@TomsLider](https://t.me/TomsLider)  
 - Instagram: [@toms_lider](https://instagram.com/toms_lider)  
 - Email: `lidirgame@gmail.com` *(optional, I can help you set it up if needed)*
 
