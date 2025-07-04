@@ -16,7 +16,7 @@
 - 🧠 Currently expanding my knowledge in **JavaScript**, **React**, and **Node.js**  
 - 🔎 **Open to Collaboration**: Web apps, fan platforms, and innovative tech ideas  
 - 🌐 GitHub Portfolio: [TomsLiderUZ](https://github.com/TomsLiderUZ)  
-- 📫 Contact: [@TomsLiderUZ on Telegram](https://t.me/TomsLider)  
+- 📫 Contact: [@TomsLider on Telegram](https://t.me/TomsLider)  
 - 📷 Instagram: [@toms_lider](https://instagram.com/toms_lider)  
 - 🎧 Fun fact: I love coding with anime background music 🎶  
 
