@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://yt3.googleusercontent.com/IUhngcm2SJkn74z8Cyn_Q19Q11srRDWcgnX381EAIjyXFbgOuOY52cLHKkfGYtNoPOpJ7KGZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="TomsLiderUZ Banner" width="100%" />
+</p>
+
+---
+
 # 👋 Hi, I'm @TomsLiderUZ
 
 🎬 I'm a passionate developer and the founder of several modern web projects. I enjoy working with web technologies, building dynamic applications, and collaborating in open-source and team-based environments. Coding is my art!
@@ -26,6 +32,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### 🔧 Backend:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -45,7 +54,7 @@
 
 - Telegram: [@TomsLiderUZ](https://t.me/TomsLider)  
 - Instagram: [@toms_lider](https://instagram.com/toms_lider)  
-- Email: `toms.lider.dev@gmail.com` *(optional, I can help you set it up if needed)*
+- Email: `lidirgamev@gmail.com` *(optional, I can help you set it up if needed)*
 
 ---
 
