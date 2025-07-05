@@ -60,6 +60,16 @@
 
 ---
 
+
+### 📄 Full GitHub Profile Summary
+
+Want to see more detailed insights about my GitHub activity?  
+👉 [Click here to view the full summary](https://profile-summary-for-github.com/user/TomsLiderUZ)
+
+
+---
+
+
 ## 📬 Contact
 
 - Telegram: [@TomsLider](https://t.me/TomsLider)  
