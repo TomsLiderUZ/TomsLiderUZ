@@ -45,8 +45,18 @@
 
 ## 📊 GitHub Stats
 
+### 🧠 Overall Statistics
 ![TomsLiderUZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomsLiderUZ&show_icons=true&theme=radical)
+
+### 🔤 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomsLiderUZ&layout=compact&theme=radical)
+
+### 🔁 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=TomsLiderUZ&theme=radical)
+
+### 🏆 GitHub Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=TomsLiderUZ&theme=radical)
+
 
 ---
 
