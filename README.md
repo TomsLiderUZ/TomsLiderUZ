@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yt3.googleusercontent.com/J2Pb--N5hwQkAgIHp7nubiDLcEXAt9IkjtUQLh8WA7XXM8AMOvUZeZMHFl_kDT1Sg62mEwWtLQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="ItzToms Banner" width="100%" />
+  <img src="https://yt3.googleusercontent.com/J2Pb--N5hwQkAgIHp7nubiDLcEXAt9IkjtUQLh8WA7XXM8AMOvUZeZMHFl_kDT1Sg62mEwWtLQ=w2048-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="ItzToms Banner" width="100%" />
 </p>
 
 ---
