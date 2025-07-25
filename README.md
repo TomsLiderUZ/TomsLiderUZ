@@ -33,7 +33,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=F24E1E)
+![Figma](https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=F24E1E)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
